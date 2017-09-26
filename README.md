@@ -3,10 +3,14 @@ Discount Ascii Warehouse
 
 Info
 ----
+### Quick guide
+- To build: `npm run build`
+- To run in dev: `npm run start`
+- To run test: `npm run test`
 
 ### How do I start the app?
 
-Start with `node index.js`.
+Start with `node index.js` after build.
 
 Features
 ----

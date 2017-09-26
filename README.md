@@ -4,6 +4,7 @@ Discount Ascii Warehouse
 Info
 ----
 ### Quick guide
+- To install dependencies `npm install`, tested on node v6.11.0, npm v3.10.10.
 - To build: `npm run build`
 - To run in dev: `npm run start`
 - To run test: `npm run test`
